@@ -11,21 +11,18 @@
 
 ---
 
-<div align="center">
-
-| **1. Real-Time Financial Dashboard** | **2. GST POS Billing & Invoicing Engine** |
-| :---: | :---: |
-| <img src="screenshots/preview-1-dashboard.jpeg" alt="Real-Time Financial Dashboard" width="450"/> | <img src="screenshots/preview-2-invoicing.jpeg" alt="GST POS Billing & Invoicing Engine" width="450"/> |
-
-| **3. Party Master & Customer Directory** | **4. Product Inventory & Stock Movements** |
-| :---: | :---: |
-| <img src="screenshots/preview-3-partymaster.jpeg" alt="Party Master & Customer Directory" width="450"/> | <img src="screenshots/preview-4-products.jpeg" alt="Product Inventory & Stock Movements" width="450"/> |
-
-| **5. Sales Returns & Credit Note Auditing** | **6. Advanced Analytics & AI Insights** |
-| :---: | :---: |
-| <img src="screenshots/preview-5-returns.jpeg" alt="Sales Returns & Credit Note Auditing" width="450"/> | <img src="screenshots/preview-6-analytics.jpeg" alt="Advanced Analytics & AI Insights" width="450"/> |
-
-</div>
+<p align="center">
+  <img src="screenshots/preview-1-dashboard.jpeg" width="49%" />
+  <img src="screenshots/preview-2-invoicing.jpeg" width="49%" />
+</p>
+<p align="center">
+  <img src="screenshots/preview-3-partymaster.jpeg" width="49%" />
+  <img src="screenshots/preview-4-products.jpeg" width="49%" />
+</p>
+<p align="center">
+  <img src="screenshots/preview-5-returns.jpeg" width="49%" />
+  <img src="screenshots/preview-6-analytics.jpeg" width="49%" />
+</p>
 
 ---
 
