@@ -1,4 +1,4 @@
-# 🚀 Visionize ERP — Modular GST & Smart Inventory Management System
+#  Visionize ERP — Modular GST & Smart Inventory Management System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
@@ -10,8 +10,6 @@
 > A high-performance, multi-tenant enterprise ERP platform engineered for modular GST billing, dynamic barcode POS scanning, real-time inventory tracking, AI-powered sales forecasting, and comprehensive fiscal analytics.
 
 ---
-
-## 🖼️ Application Previews & Screenshots
 
 <div align="center">
 
@@ -32,16 +30,15 @@
 ---
 
 ## 📑 Table of Contents
-1. [Application Previews](#-application-previews--screenshots)
-2. [Architecture Overview](#-architecture-overview)
-3. [Core Modules & Features](#-core-modules--features)
-4. [Open Source Software & Dependency Licenses](#-open-source-software--dependency-licenses)
-5. [Prerequisites & System Requirements](#-prerequisites--system-requirements)
-6. [Step-by-Step Local Setup & Execution Guide](#-step-by-step-local-setup--execution-guide)
-7. [Environment Variables Configuration](#-environment-variables-configuration)
-8. [Default Roles & Testing Credentials](#-default-roles--testing-credentials)
-9. [Team Visionize Contributors](#-team-visionize-contributors)
-10. [License](#-license)
+1. [Architecture Overview](#-architecture-overview)
+2. [Core Modules & Features](#-core-modules--features)
+3. [Open Source Software & Dependency Licenses](#-open-source-software--dependency-licenses)
+4. [Prerequisites & System Requirements](#-prerequisites--system-requirements)
+5. [Step-by-Step Local Setup & Execution Guide](#-step-by-step-local-setup--execution-guide)
+6. [Environment Variables Configuration](#-environment-variables-configuration)
+7. [Default Roles & Testing Credentials](#-default-roles--testing-credentials)
+8. [Team Visionize Contributors](#-team-visionize-contributors)
+9. [License](#-license)
 
 ---
 
