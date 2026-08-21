@@ -11,16 +11,37 @@
 
 ---
 
+## 🖼️ Application Previews & Screenshots
+
+<div align="center">
+
+| **1. Real-Time Financial Dashboard** | **2. GST POS Billing & Invoicing Engine** |
+| :---: | :---: |
+| <img src="screenshots/preview-1-dashboard.jpeg" alt="Real-Time Financial Dashboard" width="450"/> | <img src="screenshots/preview-2-invoicing.jpeg" alt="GST POS Billing & Invoicing Engine" width="450"/> |
+
+| **3. Party Master & Customer Directory** | **4. Product Inventory & Stock Movements** |
+| :---: | :---: |
+| <img src="screenshots/preview-3-partymaster.jpeg" alt="Party Master & Customer Directory" width="450"/> | <img src="screenshots/preview-4-products.jpeg" alt="Product Inventory & Stock Movements" width="450"/> |
+
+| **5. Sales Returns & Credit Note Auditing** | **6. Advanced Analytics & AI Insights** |
+| :---: | :---: |
+| <img src="screenshots/preview-5-returns.jpeg" alt="Sales Returns & Credit Note Auditing" width="450"/> | <img src="screenshots/preview-6-analytics.jpeg" alt="Advanced Analytics & AI Insights" width="450"/> |
+
+</div>
+
+---
+
 ## 📑 Table of Contents
-1. [Architecture Overview](#-architecture-overview)
-2. [Core Modules & Features](#-core-modules--features)
-3. [Open Source Software & Dependency Licenses](#-open-source-software--dependency-licenses)
-4. [Prerequisites & System Requirements](#-prerequisites--system-requirements)
-5. [Step-by-Step Local Setup & Execution Guide](#-step-by-step-local-setup--execution-guide)
-6. [Environment Variables Configuration](#-environment-variables-configuration)
-7. [Default Roles & Testing Credentials](#-default-roles--testing-credentials)
-8. [Team Visionize Contributors](#-team-visionize-contributors)
-9. [License](#-license)
+1. [Application Previews](#-application-previews--screenshots)
+2. [Architecture Overview](#-architecture-overview)
+3. [Core Modules & Features](#-core-modules--features)
+4. [Open Source Software & Dependency Licenses](#-open-source-software--dependency-licenses)
+5. [Prerequisites & System Requirements](#-prerequisites--system-requirements)
+6. [Step-by-Step Local Setup & Execution Guide](#-step-by-step-local-setup--execution-guide)
+7. [Environment Variables Configuration](#-environment-variables-configuration)
+8. [Default Roles & Testing Credentials](#-default-roles--testing-credentials)
+9. [Team Visionize Contributors](#-team-visionize-contributors)
+10. [License](#-license)
 
 ---
 
